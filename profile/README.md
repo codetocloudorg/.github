@@ -1,3 +1,19 @@
+```
+   ██████╗ ██████╗ ██████╗ ███████╗    ████████╗ ██████╗ 
+  ██╔════╝██╔═══██╗██╔══██╗██╔════╝    ╚══██╔══╝██╔═══██╗
+  ██║     ██║   ██║██║  ██║█████╗         ██║   ██║   ██║
+  ██║     ██║   ██║██║  ██║██╔══╝         ██║   ██║   ██║
+  ╚██████╗╚██████╔╝██████╔╝███████╗       ██║   ╚██████╔╝
+   ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝       ╚═╝    ╚═════╝ 
+
+   ██████╗██╗      ██████╗ ██╗   ██╗██████╗ 
+  ██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗
+  ██║     ██║     ██║   ██║██║   ██║██║  ██║
+  ██║     ██║     ██║   ██║██║   ██║██║  ██║
+  ╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝
+   ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ 
+```
+
 # 🚀 Welcome to **Code to Cloud**!  
 
 🔹 **Empowering Engineers & Businesses in Cloud-Native Technologies**  
@@ -21,6 +37,7 @@ Code to Cloud is a community-driven hub where engineers, developers, and tech le
 
 🔧 **[Platform Engineering Hub](https://github.com/codetocloudinc/platform-engineering)** – A centralized resource for building scalable, secure, and efficient platforms.  
 📘 **[How to Become a Cloud Solutions Architect - O'Reilly Capstone Project](https://github.com/codetocloudinc/csa_project)** – A comprehensive guide and project to master cloud architecture.  
+🤖 **[Azure Agentic Engineering](https://github.com/codetocloudorg/azure-agentic-engineering)** – Exploring AI-driven agentic solutions on Azure for next-gen cloud automation.  
 
 Explore these projects and more as we continue to innovate and empower the cloud-native community!  
 
