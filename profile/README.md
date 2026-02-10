@@ -91,6 +91,20 @@ AI-driven agentic solutions on Azure for next-generation cloud automation.
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🚀 Kodra
+Cloud-native platform for accelerating application development and deployment workflows.
+
+**[Explore →](https://kodra.codetocloud.io)**
+
+</td>
+<td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
+</td>
+</tr>
 </table>  
 
 ---
