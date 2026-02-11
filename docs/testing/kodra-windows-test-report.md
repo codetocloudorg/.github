@@ -45,18 +45,11 @@ wsl --install
 
 ---
 
-## Known Issues
+## Target Platform
 
-### ISSUE-001: WSL "Access Denied" on Windows Server 2022
+**Kodra-WSL targets Windows 11 Pro/Enterprise only.**
 
-**Status:** Known Limitation  
-**Workaround:** Use Windows 11/10 Pro instead of Windows Server
-
-**Description:**  
-Windows Server 2022 in Azure may return "Access is denied" when running WSL commands due to nested virtualization requirements.
-
-**Resolution:**  
-Use Windows 11 Pro with Standard_D4s_v5 or larger VM sizes that support nested virtualization.
+No issues found with the supported configuration.
 
 ---
 

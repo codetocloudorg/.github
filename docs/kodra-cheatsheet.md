@@ -50,10 +50,11 @@ kodra-wsl sync
 
 ### WSL Prerequisites
 
+**Supported Platform:** Windows 11 Pro/Enterprise (24H2 or later)
+
 **Tested Configuration:**
 - Windows 11 Pro (24H2)
 - WSL2 with **Ubuntu 24.04.1 LTS** (from Microsoft Store)
-- Azure VM: Standard_D4s_v5 (West US 2)
 
 **Installation Steps:**
 ```powershell
@@ -67,10 +68,7 @@ wsl --install
 wsl --install -d Ubuntu-24.04
 ```
 
-> **⚠️ Azure VM Requirements:** If running Kodra-WSL on Azure Windows VMs:
-> - Use VM sizes with nested virtualization support (Dv3, Ev3, Dv4, Ev4, Dv5, Ev5 series)
-> - Windows 10/11 Pro/Enterprise is recommended for best WSL experience
-> - Windows Server 2022 requires nested virtualization to be explicitly enabled
+> **💡 Note:** For Azure-hosted development VMs, use Standard_D4s_v5 or larger sizes that support nested virtualization.
 
 ---
 
