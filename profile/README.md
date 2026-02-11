@@ -109,6 +109,12 @@ WSL-based development environment for streamlined cloud-native workflows.
 
 </td>
 <td width="33%" valign="top">
+
+### 📋 Kodra Cheat Sheet
+Quick reference guide showcasing Kodra's value for developers and engineers.
+
+**[View Cheat Sheet →](https://github.com/codetocloudorg/.github/blob/main/docs/kodra-cheatsheet.md)**
+
 </td>
 </tr>
 </table>  
