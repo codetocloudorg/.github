@@ -48,6 +48,11 @@ kodra-wsl start
 kodra-wsl sync
 ```
 
+> **⚠️ Azure VM Requirements:** If running Kodra-WSL on Azure Windows VMs:
+> - Use VM sizes with nested virtualization support (Dv3, Ev3, Dv4, Ev4, Dv5, Ev5 series)
+> - Windows 10/11 Pro/Enterprise is recommended for best WSL experience
+> - Windows Server 2022 requires nested virtualization to be explicitly enabled
+
 ---
 
 ## 🛠️ Core Commands
