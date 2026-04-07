@@ -1,0 +1,13 @@
+# These are supported funding model platforms
+
+github: [codetocloudorg]
+# patreon: codetocloud
+# open_collective: codetocloud
+# ko_fi: codetocloud
+# tidelift: npm/package-name
+# community_bridge: codetocloud
+# liberapay: codetocloud
+# issuehunt: codetocloud
+# lfx_crowdfunding: codetocloud
+# polar: codetocloud
+custom: ['https://www.codetocloud.io/sponsor', 'https://linktr.ee/codetocloud']
