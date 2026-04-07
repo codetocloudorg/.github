@@ -108,6 +108,14 @@ WSL-based development environment for streamlined cloud-native workflows.
 **[Explore →](https://kodra.wsl.codetocloud.io)**
 
 </td>
+<td width="33%" valign="top">
+
+### 🏭 Azure Foundry Blueprints
+Production-ready blueprints and templates for Azure Foundry deployments.
+
+**[Explore →](https://github.com/codetocloudorg/azure-foundry-blueprints)**
+
+</td>
 </tr>
 </table>  
 
