@@ -1,154 +1,46 @@
 <div align="center">
 
-```
-   ██████╗ ██████╗ ██████╗ ███████╗    ████████╗ ██████╗ 
-  ██╔════╝██╔═══██╗██╔══██╗██╔════╝    ╚══██╔══╝██╔═══██╗
-  ██║     ██║   ██║██║  ██║█████╗         ██║   ██║   ██║
-  ██║     ██║   ██║██║  ██║██╔══╝         ██║   ██║   ██║
-  ╚██████╗╚██████╔╝██████╔╝███████╗       ██║   ╚██████╔╝
-   ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝       ╚═╝    ╚═════╝ 
+# Code To Cloud
 
-   ██████╗██╗      ██████╗ ██╗   ██╗██████╗ 
-  ██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗
-  ██║     ██║     ██║   ██║██║   ██║██║  ██║
-  ██║     ██║     ██║   ██║██║   ██║██║  ██║
-  ╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝
-   ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ 
-```
+**AI agents, Azure platforms and agentic DevOps on Azure & GitHub.**
+No hype. Just builders.
 
-**Empowering Engineers & Businesses in Cloud-Native Technologies**
-
-[![Discord](https://img.shields.io/badge/Discord-Join_Us-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/vwfwq2EpXJ)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Code-To-Cloud)
-[![Podcast](https://img.shields.io/badge/Podcast-Listen-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/1iOZfFVamUk7CJPOvtU00v)
-[![Website](https://img.shields.io/badge/Website-Visit-58a6ff?style=flat-square&logo=google-chrome&logoColor=white)](https://www.codetocloud.io)
+[Website](https://codetocloud.io/?utm_source=github&utm_medium=readme&utm_campaign=org-profile) ·
+[Free resources](https://codetocloud.io/resources/?utm_source=github&utm_medium=readme&utm_campaign=org-profile) ·
+[Podcast](https://codetocloud.io/podcast/?utm_source=github&utm_medium=readme&utm_campaign=org-profile) ·
+[YouTube](https://www.youtube.com/@Code-To-Cloud) ·
+[LinkedIn](https://www.linkedin.com/company/code-to-cloud) ·
+[Discord](https://discord.gg/vwfwq2EpXJ)
 
 </div>
 
 ---
 
-# Welcome to **Code to Cloud**
+Code To Cloud helps enterprise and mid-market teams build on Azure and GitHub: cloud foundations and migrations, Azure AI platforms, AI agents in production with proper governance, and agentic DevOps with GitHub Copilot and Actions. We're a Microsoft Partner based in Calgary, working across Canada and beyond.
 
-Code to Cloud is a community-driven hub where engineers, developers, and tech leaders collaborate to push the boundaries of cloud-native innovation. Whether you're into Kubernetes, DevSecOps, Platform Engineering, or AI-driven cloud solutions, this is your space to build, learn, and scale.  
+This org is where we publish the open-source side of that work: workshops, tools, reference material and conference talks.
 
----
+## Start here
 
-## 💡 What We Do
+| Project | What it is |
+|---|---|
+| [**intro-to-microsoft-foundry**](https://github.com/codetocloudorg/intro-to-microsoft-foundry) | Hands-on workshop: deploy Microsoft Foundry with Bicep, build a versioned agent, and gate it with an evaluation. Python, about 60 minutes. |
+| [**azure-agentic-engineering**](https://github.com/codetocloudorg/azure-agentic-engineering) | Practices for building agentic AI platforms on Azure: developer tools, Microsoft Foundry, AI Search and DevOps automation. |
+| [**platform-engineering**](https://github.com/codetocloudorg/platform-engineering) | Resources, IaC templates and guides for platform engineering teams building cloud-native platforms. |
+| [**oporder**](https://github.com/codetocloudorg/oporder) | Vendor-neutral assessment for cloud migration and app modernization: rehost, replatform, refactor, rebuild or retire. |
+| [**prairie-dev-con-2026-talks**](https://github.com/codetocloudorg/prairie-dev-con-2026-talks) | Slides, abstracts and demo code from our Prairie Dev Con Winnipeg 2026 talks on the agentic shift and agentic DevOps. |
+| [**nova-desk-companion**](https://github.com/codetocloudorg/nova-desk-companion) | "Hey Nova": a voice desk companion for Claude Code on an ESP32-S3 AMOLED board. |
 
-<table>
-<tr>
-<td width="50%">
+**Developer environments:** [Kodra](https://kodra.codetocloud.io) (Ubuntu), [Kodra for WSL](https://kodra.wsl.codetocloud.io), [kodra-macos](https://github.com/codetocloudorg/kodra-macos) and [agentic-devops-macos-setup](https://github.com/codetocloudorg/agentic-devops-macos-setup).
 
-#### 🚀 Open-Source Projects
-Building real-world cloud-native solutions that solve actual engineering challenges in production environments.
+**Brand assets:** logos and wallpapers in [artwork](https://github.com/codetocloudorg/artwork).
 
-#### 🎤 Tech Meetups & Conferences
-Connecting minds and sharing insights through community events, workshops, and technical conferences.
+## Work with us
 
-</td>
-<td width="50%">
-
-#### 🔒 Cloud Security & DevOps
-Implementing DevSecOps best practices to secure, automate, and optimize cloud infrastructure.
-
-#### 📚 Hands-on Bootcamps
-Deep dives into Azure, Terraform, Kubernetes, and modern cloud-native technologies.
-
-</td>
-</tr>
-</table>
-
-> **Our Mission:** Bridge the gap between code and cloud, helping engineers ship faster, smarter, and more securely.  
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🏗️ Platform Engineering Hub
-A centralized resource for building scalable, secure, and efficient platforms with modern DevOps practices.
-
-**[Explore →](https://github.com/codetocloudinc/platform-engineering)**
-
-</td>
-<td width="33%" valign="top">
-
-### ☁️ Cloud Solutions Architect
-O'Reilly Capstone - A comprehensive guide and project to master cloud architecture on Azure.
-
-**[Explore →](https://github.com/codetocloudinc/csa_project)**
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 Azure Agentic Engineering
-AI-driven agentic solutions on Azure for next-generation cloud automation.
-
-**[Explore →](https://github.com/codetocloudorg/azure-agentic-engineering)**
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 🚀 Kodra
-Cloud-native platform for accelerating application development and deployment workflows.
-
-**[Explore →](https://kodra.codetocloud.io)**
-
-</td>
-<td width="33%" valign="top">
-
-### 🐧 Kodra-WSL
-WSL-based development environment for streamlined cloud-native workflows.
-
-**[Explore →](https://kodra.wsl.codetocloud.io)**
-
-</td>
-<td width="33%" valign="top">
-
-### 🏭 Azure Foundry Blueprints
-Production-ready blueprints and templates for Azure Foundry deployments.
-
-**[Explore →](https://github.com/codetocloudorg/azure-foundry-blueprints)**
-
-</td>
-</tr>
-</table>  
-
----
-
-## 🎨 Artwork & Branding
-
-Looking for logos, desktop wallpapers, or brand assets? Check out our **[Artwork Repository](https://github.com/codetocloudinc/artwork)**.
-
----
-
-## 🤝 Get Involved
+Free checklists, an agentic AI scorecard and the Foundry workshop are on [codetocloud.io/resources](https://codetocloud.io/resources/?utm_source=github&utm_medium=readme&utm_campaign=org-profile). If you're putting AI agents or Azure platforms into production and want a hand, [get in touch](https://codetocloud.io/contact/?utm_source=github&utm_medium=readme&utm_campaign=org-profile).
 
 <div align="center">
 
-Join our community and stay connected!
-
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vwfwq2EpXJ)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Code-To-Cloud)
-[![Podcast](https://img.shields.io/badge/Podcast-Listen_Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/1iOZfFVamUk7CJPOvtU00v)
-
-**[🔗 All Our Links](https://linktr.ee/codetocloud)** | **[🌐 Website](https://www.codetocloud.io)**
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Ship It. Scale It. ⚡
-
-*Building the future of cloud-native engineering, one commit at a time.*
-
-[![GitHub Organization](https://img.shields.io/badge/Follow-@codetocloudorg-181717?style=flat-square&logo=github)](https://github.com/codetocloudorg)
+**Ship it. Scale it.**
 
 </div>
