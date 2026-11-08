@@ -2,7 +2,7 @@
 
 # Code To Cloud
 
-**AI agents, Azure platforms and agentic DevOps on Azure & GitHub.**
+**Azure platforms your developers want to use, from landing zone to AI agents in production.**
 No hype. Just builders.
 
 [Website](https://codetocloud.io/?utm_source=github&utm_medium=readme&utm_campaign=org-profile) ·
@@ -16,7 +16,7 @@ No hype. Just builders.
 
 ---
 
-Code To Cloud helps enterprise and mid-market teams build on Azure and GitHub: cloud foundations and migrations, Azure AI platforms, AI agents in production with proper governance, and agentic DevOps with GitHub Copilot and Actions. We're a Microsoft Partner based in Calgary, working across Canada and beyond.
+Code To Cloud designs, builds and runs Azure platforms for enterprise and mid-market teams: platform engineering and developer experience on GitHub and Red Hat OpenShift, secure landing zones, and AI agents in production with proper governance. We're a Microsoft Partner, a Red Hat partner and a Fortinet Engage Advocate Partner, based in Calgary and working across Canada and the United States.
 
 This org is where we publish the open-source side of that work: workshops, tools, reference material and conference talks.
 
